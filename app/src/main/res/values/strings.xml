@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PassBalance</string>
+    <string name="text_pass_balance">Saldo do Passe:</string>
+    <string name="button_save">Salvar</string>
 </resources>
